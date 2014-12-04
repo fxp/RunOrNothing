@@ -30,6 +30,11 @@ A cash game helping people to acquire habit. Fork as you wish.
 300元
 是否考虑可以一人下多注？
 
+裁判
+====
+赌金在活动当前0点前打入裁判的支付宝账号，将转账信息截屏发到群内留底。
+裁判必须是群里10%以上的人都认识或有关系的，以保证资金安全。
+
 Contact
 ====
 email fxp007@gmail.com
