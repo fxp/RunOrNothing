@@ -40,10 +40,10 @@ A cash game helping people to acquire habit. Fork as you wish.
 
 道具
 ====
-`时光机（小）`：某一次的数据提交deadline延长3个小时，但不影响下一次的提交deadline
-`时光机（中）`：某一次的数据提交deadline延长6个小时，但不影响下一次的提交deadline
-`时光机（大）`：某一次的数据提交deadline延长12个小时，但不影响下一次的提交deadline
-`咖啡劵`：指定除裁判以外的一个人请自己喝咖啡（茶、饮料之类）
+-  `时光机（小）`：某一次的数据提交deadline延长3个小时，但不影响下一次的提交deadline
+-  `时光机（中）`：某一次的数据提交deadline延长6个小时，但不影响下一次的提交deadline
+-  `时光机（大）`：某一次的数据提交deadline延长12个小时，但不影响下一次的提交deadline
+-  `咖啡劵`：指定除裁判以外的一个人请自己喝咖啡（茶、饮料之类）
 
 每注金额
 ====
