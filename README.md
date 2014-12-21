@@ -6,7 +6,7 @@ A cash game helping people to acquire habit. Fork as you wish.
 用户忠诚计划
 ====
 老用户拥有自己的profile页面，显示参与的次数及路径（当期结束时上线）
-成功完成一轮的用户参加下一轮获得`时光机（小）`
+成功完成一轮的用户参加下一轮获得`咖啡券`
 
 目标
 ====
